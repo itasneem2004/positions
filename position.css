@@ -1,0 +1,23 @@
+.border{
+    border: 3px purple solid;
+    margin: 100px 100px 100px 100px;
+
+}
+
+.absolute{
+    position: absolute;
+    top: 20px;
+    left: 50px;
+}
+
+.relative{
+    position: relative;
+    top: 60px;
+  left: 330px;
+}
+
+.fixed{
+    position: fixed;
+    right: 50px;
+    bottom: 70px;
+}
